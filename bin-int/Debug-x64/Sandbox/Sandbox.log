@@ -1,0 +1,3 @@
+﻿  SandboxApp.cpp
+C:\Users\sagan\source\repos\Mara-Engine\Mara-Engine\src\Mara\EntryPoint.h(8,1): warning C4326: Der Rückgabetyp von "main" sollte "int" und nicht "void" sein
+  Sandbox.vcxproj -> C:\Users\sagan\source\repos\Mara-Engine\bin\Debug-x64\Sandbox\Sandbox.exe
